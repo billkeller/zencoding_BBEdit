@@ -254,7 +254,7 @@ zen_settings = {
 			"bg+": "background: url(|) 0 0 no-repeat transparent;",
 			"bg:n": "background: none;",
 			"bg:ie": "filter:progid: DXImageTransform.Microsoft.AlphaImageLoader(src='|x.png');",
-			"bgc": "background-color: #ff;",
+			"bgc": "background-color: #fff;",
 			"bgi": "background-image: url(|);",
 			"bgi:n": "background-image: none;",
 			"bgr": "background-repeat: |;",
