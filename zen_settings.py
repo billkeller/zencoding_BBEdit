@@ -416,7 +416,7 @@ zen_settings = {
 			"wow:s": "word-wrap: suppress;",
 			"lts": "letter-spacing: |;",
 			"f": "font: |;",
-			"f+": "font: 1em Arial,sans-serif;",
+			"f+": "font: normal 10px Helvetica, Arial,sans-serif;",
 			"fw": "font-weight: |;",
 			"fw:n": "font-weight: normal;",
 			"fw:b": "font-weight: bold;",
@@ -498,7 +498,8 @@ zen_settings = {
 			"pgba:l": "page-break-after: left;",
 			"pgba:r": "page-break-after: right;",
 			"orp": "orphans: |;",
-			"wid": "widows: |;"
+			"wid": "widows: |;",
+			"b-f": "box-flex: |;"
 		}
 	},
 	
