@@ -148,7 +148,7 @@ zen_settings = {
 			"mah:n": "max-height: none;",
 			"miw": "min-width: |;",
 			"mih": "min-height: |;",
-			"o": "outline: 1px dotted #000|;",
+			"o": "outline: 1px dotted #ff00ff|;",
 			"o:n": "outline: none;",
 			"oo": "outline-offset: |;",
 			"ow": "outline-width: |;",
