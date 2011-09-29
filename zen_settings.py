@@ -499,7 +499,11 @@ zen_settings = {
 			"pgba:r": "page-break-after: right;",
 			"orp": "orphans: |;",
 			"wid": "widows: |;",
-			"b-f": "box-flex: |;"
+			"b-f": "box-flex: |;",
+			'com': '/*--------------------------------------------------\n' +
+					'Comments\n' +
+					'---------------------------------------------------*/\n',
+			
 		}
 	},
 	
