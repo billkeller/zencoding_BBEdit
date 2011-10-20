@@ -251,7 +251,7 @@ zen_settings = {
 			"bdbrrs": "border-bottom-right-radius: |;",
 			"bdblrs": "border-bottom-left-radius: |;",
 			"bg": "background: |;",
-			"bg+": "background: url(|) 0 0 no-repeat transparent;",
+			"bg+": "background: url(../assets/images/|) 0 0 no-repeat transparent;",
 			"bg:n": "background: none;",
 			"bg:ie": "filter:progid: DXImageTransform.Microsoft.AlphaImageLoader(src='|x.png');",
 			"bgc": "background-color: #fff;",
