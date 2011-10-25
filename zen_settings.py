@@ -255,7 +255,7 @@ zen_settings = {
 			"bg:n": "background: none;",
 			"bg:ie": "filter:progid: DXImageTransform.Microsoft.AlphaImageLoader(src='|x.png');",
 			"bgc": "background-color: #fff;",
-			"bgi": "background-image: url(|);",
+			"bgi": "background-image: url(../assets/images/|);",
 			"bgi:n": "background-image: none;",
 			"bgr": "background-repeat: |;",
 			"bgr:n": "background-repeat: no-repeat;",
@@ -503,7 +503,7 @@ zen_settings = {
 			'com': '/*--------------------------------------------------\n' +
 					'Comments|\n' +
 					'---------------------------------------------------*/\n',
-			'comp': '<?php /* */ ?>|\n',
+			'comp': '<?php /* |*/ ?>\n',
 			
 		}
 	},
