@@ -285,6 +285,7 @@ zen_settings = {
 			"bgz:ct": "background-size: contain;",
 			"bgz:cv": "background-size: cover;",
 			"c": "color: #000;",
+			"c:f": "color: #fff;",
 			"tbl": "table-layout: |;",
 			"tbl:a": "table-layout: auto;",
 			"tbl:f": "table-layout: fixed;",

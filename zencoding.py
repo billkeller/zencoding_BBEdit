@@ -56,7 +56,7 @@ if abbr:
   elif exp_type == 'wrap':
     try:   # Need to get selected text
       selFileDest = (os.path.expanduser("~")) # get home directory
-      selFile = open(selFileDest+'/Library/Application Support/BBEdit/Scripts/zencoding_1_1_1/zen_selected_temp', 'r')
+      selFile = open('~/Dropbox/Library/Application Support/BBEdit/Scripts/zencoding_BBEdit/zen_selected_temp', 'r')
       selected = selFile.read()
     except IOError:
       selected = ''  # empty selection
